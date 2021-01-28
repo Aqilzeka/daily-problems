@@ -1,4 +1,4 @@
-package january_2021;
+package _2021.january;
 
 import java.util.HashMap;
 import java.util.Map;
